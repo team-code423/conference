@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    
+    width: 60%;
+    margin-left: 30%;
+    color: aquamarine;
+    background-color: blue;
+}

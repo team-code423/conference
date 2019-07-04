@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    
+    background-color: rgb(247, 252, 250);
+}
+.main h1{
+    text-align: center;
+    border-bottom: 6px solid #ddd;
+    width: 20%;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.content{
+    width: 800px;
+    margin-top: 80px;
+    margin-left: 35px; 
+   
+}
+img{
+    width: 800px;
+    height: 400px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.map{
+    margin-top: 40px;
+    margin-left: 70px;
+
+}
+.nots{
+    margin-bottom: 15px;
+    font-size: 22px;
+}

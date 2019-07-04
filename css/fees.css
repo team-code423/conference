@@ -1,0 +1,61 @@
+
+.main{
+    
+    width: 100%;
+    
+   background-color: #fff; 
+    
+}
+.main h1{
+    text-align: center;
+    border-bottom: 6px solid #ddd;
+    width: 20%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+table{
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+    
+    
+  
+}
+thead  {
+    
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+table thead  tr th{
+
+    vertical-align: bottom;
+    border-bottom: 2px solid #ddd;
+    padding: 8px;
+    line-height: 1.42857143;
+    color: #d73630;
+    font-weight: bold;
+    font-size: 18px;
+
+    
+}
+table tbody  tr th{
+    vertical-align: bottom;
+    border-bottom: 2px solid #ddd;
+    padding: 8px;
+    line-height: 1.42857143;
+    color: #d73630;
+    font-weight: bold;
+    font-size: 18px;
+
+    
+}
+th{
+    text-align: left;
+    display: table-cell;
+    vertical-align: inherit;
+    width: 30%;
+}
+
